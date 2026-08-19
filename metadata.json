@@ -1,0 +1,6 @@
+{
+  "name": "Personal Document Manager",
+  "description": "A secure application for organizing certificates, IDs, warranties, and insurance documents with expiration reminders and smart categorization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
